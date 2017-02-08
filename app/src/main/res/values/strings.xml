@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">demo</string>
+
+    <string name="item_home">Trang Chủ</string>
+    <string name="item_post">Đăng Bài</string>
+    <string name="item_news">Tin Tức</string>
+    <string name="item_partner">Đối Tác</string>
+    <string name="item_hiring">Tuyển Dụng</string>
+    <string name="item_about">Về Chúng Tôi</string>
+    <string name="item_setting">Tùy Chỉnh</string>
+    <string name="item_detail_new">Chi Tiết Tin Tức</string>
+    <string name="item_detail_partner">Chi Tiết Đối Tác</string>
+    <string name="item_logout">Logout</string>
+
+</resources>
